@@ -26,7 +26,7 @@ and data visualization using R.
 <details>
 <summary>Short Description</summary>
 <br>
-An intensive two-week pre-doctoral course covering the mathematical 
+An intensive one-week pre-doctoral course covering the mathematical 
 foundations for graduate-level political methodology, including linear 
 algebra, calculus, probability, and optimization.
 </details>
