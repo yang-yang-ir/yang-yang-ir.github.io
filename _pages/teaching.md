@@ -38,14 +38,14 @@ algebra, calculus, probability, and optimization.
 ## Teaching Assistant
 
 ### PLSC 014: Introduction to International Relations
-*Undergraduate, The Pennsylvania State University*  
+*Undergraduate, The Pennsylvania State University*<br>  
 **Spring 2023**
 TA for [Prof. Douglas Lemke](https://polisci.la.psu.edu/people/dwl14/)
 
 <br>
 
 ### POL-UA 842: Doing Political Economy
-*Undergraduate, New York University*
+*Undergraduate, New York University*<br>
 **Spring 2021**
 TA for [Prof. Sukwon Lee](https://wp.nyu.edu/artsampscience-sukwonlee77/)
 
