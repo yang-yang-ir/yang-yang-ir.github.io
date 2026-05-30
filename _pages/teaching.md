@@ -38,7 +38,7 @@ algebra, calculus, probability, and optimization.
 ## Teaching Assistant
 
 ### PLSC 014: Introduction to International Relations
-*Undergraduate, The Pennsylvania State University*<br>  
+*Undergraduate, The Pennsylvania State University*
 **Spring 2023**
 TA for [Prof. Douglas Lemke](https://polisci.la.psu.edu/people/dwl14/)
 
