@@ -51,3 +51,61 @@ Electoral conjoint experiments typically require respondents to choose between t
 Research on crisis bargaining has primarily focused on signaling as a means for states to convey resolve. Yet signals are not the only means of conveying information about resolve from one state to another. We focus on another information source, which we dub ``inadvertences.’’  Inadvertences are information transmissions that are \textit{at least plausibly} unintentional. Examples include apparently spontaneous emotional displays and information gained through intelligence. We predict that the extent to which observers update their estimates of a state's resolve based on inadvertences will depend upon how likely they think it is that the information was truly revealed unintentionally. We further theorize that this is a function of two features: image alignment and audience awareness. When an inadvertence conveys information that aligns with the imagine that the sender seeks to signal publicly and it is clear that the sender is aware of an audience, observers will be more likely to conclude that the sender had the incentive to unobservably manipulate the inadvertence and therefore discount its informational value. In contrast, inadvertences that convey information that contradicts the sender's public image or are conveyed in a context in which the sender is plausibly unaware or uncertain about having an audience are more likely to update beliefs. We find support for our theory in a survey experiment and case anecdotes.
 
 </details>
+
+---
+
+## Software
+
+### `DeepLearningCausal`: Causal Inference with Super Learner and Deep Neural Networks
+
+An R package for estimating Conditional Average Treatment Effects (CATEs) 
+from meta-learner models (S-, T-, X-, R-learner) and Population Average 
+Treatment Effects on the Treated (PATT) in settings with treatment 
+noncompliance. The package integrates Python's deep learning ecosystem 
+(TensorFlow, Keras3) into R via `reticulate`, while also supporting weighted 
+ensemble learning through the Super Learner approach.
+
+[![CRAN](https://www.r-pkg.org/badges/version/DeepLearningCausal)](https://cran.r-project.org/package=DeepLearningCausal)
+[![Downloads](https://cranlogs.r-pkg.org/badges/grand-total/DeepLearningCausal)](https://cran.r-project.org/package=DeepLearningCausal)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+
+📄 **Companion Paper**: Khoi, N., **Y. Yang**, and B. Mukherjee. (2025). 
+"DeepLearningCausal: An R Package for Estimating Treatment Effects Using 
+Deep Neural Networks and Ensemble Learning." *The R Journal*, **forthcoming**.  
+
+[[CRAN]](https://cran.r-project.org/package=DeepLearningCausal) 
+[[GitHub]](https://github.com/hknd23/DeepLearningCausal) 
+[[Tutorial]](https://github.com/hknd23/DeepLearningCausal/blob/main/tutorial.md)
+
+<details>
+<summary><b>▸ Description</b></summary>
+
+`DeepLearningCausal` enables researchers to estimate causal effects from 
+observational and experimental data using state-of-the-art deep learning 
+and ensemble methods within the R environment. Key features include:
+
+- **Meta-learner CATE estimation** via S-, T-, X-, and R-learner models 
+  (Künzel et al., 2019; Nie and Wager, 2021)
+- **PATT estimation under treatment noncompliance** based on the PATT-C 
+  framework (Ottoboni and Poulous, 2020)
+- **Flexible deep neural network architectures** with customizable 
+  optimizers (Adam, SGD, AdaGrad, RMSprop), hyperparameter tuning, and 
+  hidden layer configuration
+- **Conformal prediction intervals** for individual treatment effects (ITEs)
+- **Weighted ensemble learning** via Super Learner integrating XGBoost, 
+  random forests, lasso, neural nets, and other base learners
+- **Heterogeneous treatment effects visualization** across subgroups
+
+The package is designed for applied researchers in political science, 
+economics, public health, and the social sciences who seek to leverage 
+deep learning for causal inference without leaving the R environment.
+
+</details>
+
+<details>
+<summary><b>▸ Installation</b></summary>
+
+```r
+
+
+
