@@ -78,8 +78,8 @@ Deep Neural Networks and Ensemble Learning." *The R Journal*, **forthcoming**.
 [[GitHub]](https://github.com/hknd23/DeepLearningCausal) 
 [[Tutorial]](https://github.com/hknd23/DeepLearningCausal/blob/main/tutorial.md)
 
-<details>
-<summary>▸ Description</summary>
+<details markdown="1">
+<summary>Description</summary>
 
 `DeepLearningCausal` enables researchers to estimate causal effects from 
 observational and experimental data using state-of-the-art deep learning 
