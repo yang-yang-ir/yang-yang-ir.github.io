@@ -49,5 +49,6 @@ TA for [Prof. Douglas Lemke](https://polisci.la.psu.edu/people/dwl14/)
 **Spring 2021**
 TA for [Prof. Sukwon Lee](https://wp.nyu.edu/artsampscience-sukwonlee77/)
 
+---
 
 
