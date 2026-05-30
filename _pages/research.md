@@ -102,10 +102,6 @@ deep learning for causal inference without leaving the R environment.
 
 </details>
 
-<details>
-<summary><b>▸ Installation</b></summary>
-
-```r
 
 
 
