@@ -5,7 +5,7 @@ permalink: /cv/
 author_profile: true
 ---
 
-My full CV is available [here](/files/Yang_Yang_CV.pdf).
+My C.V. is available [here](/files/Yang_Yang_CV.pdf).
 
 <br>
 **Email:** [yang.yang@psu.edu](mailto:yang.yang@psu.edu)
