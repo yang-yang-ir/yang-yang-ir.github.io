@@ -7,7 +7,7 @@ author_profile: true
 
 ## Working Papers
 
-**Foreign Lobbying as an Electoral Strategy: Electoral Cycles and Major-Power** 
+**Foreign Lobbying as an Electoral Strategy: Electoral Cycles and Major-Power**, 
 *Working Paper.*  
 
 <details>
@@ -18,7 +18,7 @@ Major powers frequently influence elections abroad, yet existing research focuse
 
 ---
 
-**The Signaling Dilemma of Coercion: Credibly Threatening and Reassuring at the Same Time** 
+**The Signaling Dilemma of Coercion: Credibly Threatening and Reassuring at the Same Time**, 
 *Working Paper.*  
 
 <details>
