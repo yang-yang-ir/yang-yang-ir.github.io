@@ -31,6 +31,7 @@ Successful coercion requires not only that targets believe a challenger is willi
 
 **The Limitations of Using Forced Choice in Electoral Conjoint Experiments**, with [Giancarlo Visconti](https://www.giancarlovisconti.com/).
 *Under Review*  
+[[PDF]](/files/Conjoint_Forced_Choice.pdf) 
 
 <details>
 <summary><b>Abstract</b></summary>
