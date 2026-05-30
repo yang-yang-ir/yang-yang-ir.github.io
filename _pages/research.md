@@ -11,7 +11,7 @@ author_profile: true
 *Working Paper.*  
 
 <details>
-<summary><b>Abstract</b></summary>
+<summary>Abstract</summary>
 <br>
 Major powers frequently influence elections abroad, yet existing research focuses primarily on the supply side of intervention. This paper shifts attention to the demand side by examining how weaker states seek foreign electoral support during electoral competition. I argue that foreign support-seeking follows electoral cycles: As elections approach, incumbents intensify efforts to secure foreign support that can strengthen their electoral prospects. However, not all forms of support-seeking are equally responsive to electoral cycles. Because public-facing support, such as high-level visits and political endorsements, is less constrained by the prolonged bargaining and implementation timelines associated with resource-based support, such as aid, trade, and investment, electoral cycles should be especially pronounced in these forms of support-seeking. Using original data on foreign government lobbying in the United States from FARA disclosures, classified with large language models, I find evidence that as elections approach, incumbent governments increased their efforts to secure foreign support, particularly public-facing support, from the U.S. These findings recast foreign electoral intervention as a process actively solicited by incumbents facing electoral pressures, rather than one driven solely by major powers.
 </details>
@@ -22,7 +22,7 @@ Major powers frequently influence elections abroad, yet existing research focuse
 *Working Paper.*  
 
 <details>
-<summary><b>Abstract</b></summary>
+<summary>Abstract</summary>
 <br>
 Successful coercion requires not only that targets believe a challenger is willing to carry out its threats, but also that they believe it will stop once compliance is achieved. Existing research recognizes the importance of both threat credibility and assurance credibility, yet largely treats intentions as a one-dimensional problem of resolve and leaves unclear how assurances are communicated in practice. I argue that targets draw inferences along two dimensions: resolve, a challenger’s willingness to fight if challenged, and restraint, its willingness to limit the use of force once the target complies. This distinction requires targets to differentiate among three types of challengers: unresolved, resolved and restrained, and resolved but unrestrained. Because coercive actions convey information about both dimensions simultaneously, coercers face a signaling dilemma. Measures that strengthen perceptions of resolve often raise concerns about restraint, while actions that reassure targets may weaken perceptions of resolve. Assurances, therefore, need not be communicated through explicit verbal commitments alone; they are often embedded in the strategic choice of coercive instruments themselves. Using a survey experiment, I show that military coercion increases perceived resolve but reduces perceived restraint, whereas nonmilitary coercion has the opposite effect. Combining the two instruments helps mitigate this trade-off, making challengers appear both more resolved and more restrained. The findings offer a new behavioral account of coercive credibility and expand conventional understandings of how assurances are communicated in international politics.
 </details>
@@ -34,7 +34,7 @@ Successful coercion requires not only that targets believe a challenger is willi
 [[PDF]](/files/Conjoint_Forced_Choice.pdf) 
 
 <details>
-<summary><b>Abstract</b></summary>
+<summary>Abstract</summary>
 <br>
 Electoral conjoint experiments typically require respondents to choose between two candidates, assuming full turnout and strict preference orderings, even though real-world voters may abstain or cast protest votes. We show that excluding these options is not trivial. In our preregistered experiment, more than half of respondents abstained or cast protest votes at least once when such options were available. While most AMCE estimates remain stable, a subset shifts in direction, magnitude, or significance—changes that are unpredictable ex ante and can mislead inferences about voter preferences. Marginal mean estimates diverge even sharply across designs. These shifts are systematic, shaped by respondent-level traits (e.g., turnout history and propensity) and task-level features such as rating differentials and contest appeal. Our findings show that forced-choice designs impose strong behavioral assumptions and risk obscuring meaningful variation in electoral behavior. Providing explicit opt-out options enhances validity and better captures the full range of voter preferences.
 
@@ -47,7 +47,7 @@ Electoral conjoint experiments typically require respondents to choose between t
 *Working Paper*  
 
 <details>
-<summary><b>Abstract</b></summary>
+<summary>Abstract</summary>
 <br>
 Research on crisis bargaining has primarily focused on signaling as a means for states to convey resolve. Yet signals are not the only means of conveying information about resolve from one state to another. We focus on another information source, which we dub ``inadvertences.’’  Inadvertences are information transmissions that are \textit{at least plausibly} unintentional. Examples include apparently spontaneous emotional displays and information gained through intelligence. We predict that the extent to which observers update their estimates of a state's resolve based on inadvertences will depend upon how likely they think it is that the information was truly revealed unintentionally. We further theorize that this is a function of two features: image alignment and audience awareness. When an inadvertence conveys information that aligns with the imagine that the sender seeks to signal publicly and it is clear that the sender is aware of an audience, observers will be more likely to conclude that the sender had the incentive to unobservably manipulate the inadvertence and therefore discount its informational value. In contrast, inadvertences that convey information that contradicts the sender's public image or are conveyed in a context in which the sender is plausibly unaware or uncertain about having an audience are more likely to update beliefs. We find support for our theory in a survey experiment and case anecdotes.
 
@@ -79,7 +79,7 @@ Deep Neural Networks and Ensemble Learning." *The R Journal*, **forthcoming**.
 [[Tutorial]](https://github.com/hknd23/DeepLearningCausal/blob/main/tutorial.md)
 
 <details>
-<summary><b>Description</b></summary>
+<summary>Description</summary>
 
 `DeepLearningCausal` enables researchers to estimate causal effects from 
 observational and experimental data using state-of-the-art deep learning 
