@@ -10,21 +10,26 @@ author_profile: true
 ### PLSC 309: Quantitative Political Analysis
 *Undergraduate, The Pennsylvania State University*  
 **Fall 2026** (Upcoming)
-
+<details>
+<summary>Short Description</summary>
+<br>
 An introduction to quantitative methods for political science research, 
 covering descriptive statistics, hypothesis testing, linear regression, 
 and data visualization using R.
+</details>
 
 <br>
 
 ### Math for Political Scientists (Math Camp)
 *Graduate, The Pennsylvania State University*  
 **Summer 2024**
-
+<details>
+<summary>Short Description</summary>
+<br>
 An intensive two-week pre-doctoral course covering the mathematical 
 foundations for graduate-level political methodology, including linear 
 algebra, calculus, probability, and optimization.
-
+</details>
 [[Syllabus]](/files/MathCamp_2024_Syllabus.pdf) 
 [[Slides]](https://github.com/yang-yang-ir/MathCamp_2024)
 
