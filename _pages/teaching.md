@@ -35,6 +35,15 @@ algebra, calculus, probability, and optimization.
 
 ---
 
+## Guest Lecture
+
+### PLSC 437: War in World Politics
+*Undergraduate, The Pennsylvania State University*<br>
+**Spring 2026**, Guest lecturer for [Prof. Roseanne McManus](https://sites.psu.edu/roseannemcmanus/)<br>
+*Special topic lecture on Extended Deterrence*
+
+---
+
 ## Teaching Assistant
 
 ### PLSC 014: Introduction to International Relations
