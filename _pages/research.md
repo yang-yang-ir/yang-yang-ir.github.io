@@ -29,7 +29,7 @@ Successful coercion requires not only that targets believe a challenger is willi
 
 ---
 
-**The Limitations of Using Forced Choice in Electoral Conjoint Experiments**, with [Giancarlo Visconti](https://www.giancarlovisconti.com/).
+**The Limitations of Using Forced Choice in Electoral Conjoint Experiments**, with [Giancarlo Visconti](https://www.giancarlovisconti.com/){:target="_blank" rel="noopener noreferrer"}.
 *Under Review*  
 [[Manuscript]](/files/Conjoint_Forced_Choice.pdf) 
 
@@ -43,13 +43,13 @@ Electoral conjoint experiments typically require respondents to choose between t
 ---
 
 
-**Beyond Signaling: Inadvertences and Belief Updating in International Crises**, with [Roseanne McManus](https://sites.psu.edu/roseannemcmanus/).
+**Beyond Signaling: Inadvertences and Belief Updating in International Crises**, with [Roseanne McManus](https://sites.psu.edu/roseannemcmanus/){:target="_blank" rel="noopener noreferrer"}.
 *Working Paper*  
 
 <details>
 <summary>Abstract</summary>
 <br>
-Research on crisis bargaining has primarily focused on signaling as a means for states to convey resolve. Yet signals are not the only means of conveying information about resolve from one state to another. We focus on another information source, which we dub ``inadvertences.’’  Inadvertences are information transmissions that are \textit{at least plausibly} unintentional. Examples include apparently spontaneous emotional displays and information gained through intelligence. We predict that the extent to which observers update their estimates of a state's resolve based on inadvertences will depend upon how likely they think it is that the information was truly revealed unintentionally. We further theorize that this is a function of two features: image alignment and audience awareness. When an inadvertence conveys information that aligns with the imagine that the sender seeks to signal publicly and it is clear that the sender is aware of an audience, observers will be more likely to conclude that the sender had the incentive to unobservably manipulate the inadvertence and therefore discount its informational value. In contrast, inadvertences that convey information that contradicts the sender's public image or are conveyed in a context in which the sender is plausibly unaware or uncertain about having an audience are more likely to update beliefs. We find support for our theory in a survey experiment and case anecdotes.
+Research on crisis bargaining has primarily focused on signaling as a means for states to convey resolve. Yet signals are not the only means of conveying information about resolve from one state to another. We focus on another information source, which we dub "inadvertences."  Inadvertences are information transmissions that are at least plausibly unintentional. Examples include apparently spontaneous emotional displays and information gained through intelligence. We predict that the extent to which observers update their estimates of a state's resolve based on inadvertences will depend upon how likely they think it is that the information was truly revealed unintentionally. We further theorize that this is a function of two features: image alignment and audience awareness. When an inadvertence conveys information that aligns with the imagine that the sender seeks to signal publicly and it is clear that the sender is aware of an audience, observers will be more likely to conclude that the sender had the incentive to unobservably manipulate the inadvertence and therefore discount its informational value. In contrast, inadvertences that convey information that contradicts the sender's public image or are conveyed in a context in which the sender is plausibly unaware or uncertain about having an audience are more likely to update beliefs. We find support for our theory in a survey experiment and case anecdotes.
 
 </details>
 
@@ -70,7 +70,7 @@ ensemble learning through the Super Learner approach.
 [![Downloads](https://cranlogs.r-pkg.org/badges/grand-total/DeepLearningCausal)](https://cran.r-project.org/package=DeepLearningCausal)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
-📄 **Companion Paper**: [Khoi, Khoi Huynh](https://nguyenkhuynh.wordpress.com/), **Yang Yang**, and [Bumba Mukherjee](https://www.bumbamukherjee.net/). (2025). 
+📄 **Companion Paper**: [Khoi, Khoi Huynh](https://nguyenkhuynh.wordpress.com/){:target="_blank" rel="noopener noreferrer"}, **Yang Yang**, and [Bumba Mukherjee](https://www.bumbamukherjee.net/){:target="_blank" rel="noopener noreferrer"}. (2025). 
 "DeepLearningCausal: An R Package for Estimating Treatment Effects Using 
 Deep Neural Networks and Ensemble Learning." *The R Journal*, **forthcoming**.  
 
