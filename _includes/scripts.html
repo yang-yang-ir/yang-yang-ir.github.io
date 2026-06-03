@@ -3,3 +3,15 @@
 {% include analytics.html %}
 
 {% include comments-providers/scripts.html %}
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  var hostname = window.location.hostname;
+  document.querySelectorAll('a[href^="http"]').forEach(function(link) {
+    if (link.href.indexOf(hostname) === -1) {
+      link.setAttribute('target', '_blank');
+      link.setAttribute('rel', 'noopener noreferrer');
+    }
+  });
+});
+</script>
