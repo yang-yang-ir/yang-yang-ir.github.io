@@ -35,7 +35,7 @@ algebra, calculus, probability, and optimization.
 
 ---
 
-## Guest Lecture
+## Guest Lecturer
 
 ### PLSC 437: War in World Politics
 *Undergraduate, The Pennsylvania State University*<br>
