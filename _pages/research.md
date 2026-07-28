@@ -72,7 +72,7 @@ ensemble learning through the Super Learner approach.
 
 📄 **Companion Paper**: [Khoi, Khoi Huynh](https://nguyenkhuynh.wordpress.com/){:target="_blank" rel="noopener noreferrer"}, **Yang Yang**, and [Bumba Mukherjee](https://www.bumbamukherjee.net/){:target="_blank" rel="noopener noreferrer"}. (2025). 
 "DeepLearningCausal: An R Package for Estimating Treatment Effects Using 
-Deep Neural Networks and Ensemble Learning." *The R Journal*, **forthcoming**.  
+Deep Neural Networks and Ensemble Learning." *The R Journal*, 18(2), 2026. DOI: 10.32614/RJ-2026-035.  
 
 [[CRAN]](https://cran.r-project.org/package=DeepLearningCausal) 
 [[GitHub]](https://github.com/hknd23/DeepLearningCausal) 
