@@ -18,7 +18,7 @@ covering descriptive statistics, hypothesis testing, linear regression,
 and data visualization using R.
 </details>
 [[Syllabus]](/files/PLSC309_Fall26_Syllabus.pdf) 
-
+[[Course Repository]](https://github.com/yang-yang-ir/PLSC-309_Fall-2026)
 <br>
 
 ### Math for Political Scientists (Math Camp)
@@ -32,7 +32,7 @@ foundations for graduate-level political methodology, including linear
 algebra, calculus, probability, and optimization.
 </details>
 [[Syllabus]](/files/MathCamp_2024_Syllabus.pdf) 
-[[Slides]](https://github.com/yang-yang-ir/MathCamp_2024)
+[[Course Repository]](https://github.com/yang-yang-ir/MathCamp_2024)
 
 ---
 
