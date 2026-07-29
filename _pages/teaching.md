@@ -9,7 +9,7 @@ author_profile: true
 
 ### PLSC 309: Quantitative Political Analysis
 *Undergraduate, The Pennsylvania State University*  
-**Fall 2026** (Upcoming)
+**Fall 2026** 
 <details>
 <summary>Short Description</summary>
 <br>
