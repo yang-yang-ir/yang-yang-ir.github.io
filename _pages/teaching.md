@@ -17,6 +17,7 @@ An introduction to quantitative methods for political science research,
 covering descriptive statistics, hypothesis testing, linear regression, 
 and data visualization using R.
 </details>
+[[Syllabus]](/files/PLSC309_Fall26_Syllabus.pdf) 
 
 <br>
 
