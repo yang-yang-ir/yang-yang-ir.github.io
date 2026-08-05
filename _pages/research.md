@@ -9,6 +9,7 @@ author_profile: true
 
 **Foreign Lobbying as an Electoral Strategy: Electoral Cycles and Major-Power Engagement** (Job Market Paper), 
 *Under Review.*  
+[[Manuscript]](/files/YYang_Demand_Support.pdf) 
 
 <details>
 <summary>Abstract</summary>
